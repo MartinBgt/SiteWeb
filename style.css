@@ -130,7 +130,7 @@ header {
     display: none;
 }
 
-@media screen and (max-width : 1000px) {
+@media screen and (max-width : 0px) {
     .desk {
         display: none;
     }
